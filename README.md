@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rob
+- 👋 Hi, I’m @robmill7
 - 👀 I’m interested in ... becoming a professianal software developer
 - 🌱 I’m currently learning ... full stack
 - 💞️ I’m looking to collaborate on ... everything
